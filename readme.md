@@ -13,6 +13,8 @@ If you have notes from a talk or workshop, please add them to the wiki. You can 
 1. If you are familiar with GitHub, fork this repository and create a pull request, adding your notes to the wiki. 
 2. If you are not certain how to do this, please create an issue in this repository, and we will add your notes to the wiki.
 
+Check-out the Foam Editor Configuration page if you want to have all the [Foam](https://foambubble.github.io/) features enabled in your editor while you are contributing to the Devcon wiki.
+
 ## About Devcon
 
 Devcon is the annual Ethereum developer conference. It is a place for developers to come together to learn, share, and collaborate. It is also a place for the Ethereum community to
