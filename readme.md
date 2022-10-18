@@ -22,6 +22,7 @@ come together to celebrate the progress of the ecosystem.
 
 Devcon is organized by the Ethereum Foundation and the Ethereum community. For more information about Devcon, please visit the [Devcon website](https://devcon.org/).
 
+Devcon 6 was held in Bogotá, Colombia on Oct 11 - 14, 2022.
 Here are some numbers of Devcon VI:
 
 ## web3wiki idea
