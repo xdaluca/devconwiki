@@ -4,7 +4,7 @@ Welcome to the Devcon VI wiki! This is a place to collect all the information ab
 
 This year there were 444 speakers, so, if you are planning to catch-up on all the talks, even if it is just for one of the tracks it would take you a couple weeks, full-time. So, many of us might have already taken notes of talks or workshops, or are now catching-up on some talks. So here is a place where you can just add your notes and share them with the community. We welcome speakers to review and contribute to the notes as well as linking to their slides. 
 
-There were many great side-events
+There were many great side-events during Devcon, so feel free to add notes from those as well. 
 
 ## How to contribute
 
@@ -23,7 +23,6 @@ come together to celebrate the progress of the ecosystem.
 Devcon is organized by the Ethereum Foundation and the Ethereum community. For more information about Devcon, please visit the [Devcon website](https://devcon.org/).
 
 Devcon 6 was held in Bogotá, Colombia on Oct 11 - 14, 2022.
-Here are some numbers of Devcon VI:
 
 ## web3wiki idea
 If you like the idea please reach out, we are trying to validate if there is a need for a community-driven wiki for web3. A more neutral place where anyone can contribute their knowledge and learn from others. Think of it like Wikipedia for Web3.
