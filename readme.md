@@ -4,7 +4,7 @@ Welcome to the Devcon VI wiki! This is a place to collect all the information ab
 
 This year there were 444 speakers, so, if you are planning to catch-up on all the talks, even if it is just for one of the tracks it would take you a couple weeks, full-time. So, many of us might have already taken notes of talks or workshops, or are now catching-up on some talks. So here is a place where you can just add your notes and share them with the community. We welcome speakers to review and contribute to the notes as well as linking to their slides. 
 
-There were many great side-events during Devcon, so feel free to add notes from those as well. 
+There were many great side-events during Devcon, so feel free to add notes from those as well.
 
 ## How to contribute
 
@@ -14,6 +14,10 @@ If you have notes from a talk or workshop, please add them to the wiki. You can 
 2. If you are not certain how to do this, please create an issue in this repository, and we will add your notes to the wiki.
 
 Check-out the Foam Editor Configuration page if you want to have all the [Foam](https://foambubble.github.io/) features enabled in your editor while you are contributing to the Devcon wiki.
+
+## For speakers
+
+If you see a note about the talk you gave, please review and feel free to make any edits, we will try to get confirmation that you are indeed the speaker from the Devcon team and add a "verified by speaker ✅" to the note.
 
 ## About Devcon
 
