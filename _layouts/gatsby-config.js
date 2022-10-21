@@ -24,7 +24,7 @@ module.exports = {
           '**/.vscode/**',
           '**/.cache/**',
           '**/templates/**',
-          '**/foam editor configuration.md/**',
+          '**/foam editor configuration/**',
         ],
         // this is an option for extending `gatsby-plugin-mdx` options inside `gatsby-theme-kb`,
         getPluginMdx(defaultPluginMdx) {
