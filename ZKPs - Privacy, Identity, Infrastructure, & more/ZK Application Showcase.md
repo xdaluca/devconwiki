@@ -1,7 +1,11 @@
 # ZK Application Showcase
 
-Speaker(s): Althea Allen, Oskar Thorén, Shumo Chu, AtHeartEngineer, Aayush Gupta, Remco Bloemen, Yi Sun, Uma Roy, Ya-wen Jeng, Jason Morton, Vivek, Iskander, Sampriti Panda  
-Date: Day 3 - Oct 13, 2022   
-Skill level: Advanced  
+Speaker(s): Yi Sun, Lakshman Sankar  
+Date: Day 3 - Oct 13, 2022  
+Skill level: Intermediate  
 Track: ZKPs: Privacy, Identity, Infrastructure, & More  
-Keywords: Zero,Knowledge  
+Keywords: zero-knowledge,application  
+Video link: https://www.youtube.com/watch?v=-PUKinjbLR8&ab_channel=EthereumFoundation  
+Slides link:  
+Description:  
+
