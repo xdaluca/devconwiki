@@ -1,4 +1,4 @@
-# ZK Application Showcase
+# ZK Application Design Patterns
 
 Speaker(s): Yi Sun, Lakshman Sankar  
 Date: Day 3 - Oct 13, 2022  
