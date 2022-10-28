@@ -12,7 +12,7 @@ const UTTERANCES_THEME_MAP = {
 }
 
 // please change it to your own and make sure your repo has installed utterances app
-const REPO_NAME = 'hikerpig/gatsby-project-kb'
+const REPO_NAME = 'elgirafo/devconwiki'
 
 const Comment: React.FC<Props> = memo(({ issueTerm }) => {
   const { value: isDark } = useDarkMode(false)
