@@ -1,4 +1,4 @@
-# Devcon VI wiki
+# Devcon VI Wiki README
 
 Welcome to the Devcon VI wiki! This is a place to collect all the information about Devcon VI. It is a community effort, so please contribute!
 
@@ -6,6 +6,7 @@ This year there were 444 speakers, so, if you are planning to catch-up on all th
 
 There were many great side-events during Devcon, so feel free to add notes from those as well.
 
+> Please keep in mind that we are still working on most of the notes to improve them.
 ## How to contribute
 
 If you have notes from a talk or workshop, please add them to the wiki. You can do this in two ways:
@@ -13,12 +14,11 @@ If you have notes from a talk or workshop, please add them to the wiki. You can 
 1. If you are familiar with GitHub, fork this repository and create a pull request to add your notes or edits to the wiki. 
 2. If you are not certain how to do this, please create an issue in this repository, and we will add your notes to the wiki.
 
-Check-out the Foam Editor Configuration page if you want to have all the [Foam](https://foambubble.github.io/) features enabled in VScode.
-
 Our goal is to maintain a high level of neutrality and accuracy in the notes. We welcome speakers to review and contribute to the notes as well as linking to their slides. Our aim is to have notes verified by speakers, for this we ask speakers to review the note, raise issues if they find any errors. After the go-ahead of the speaker we will add the "verified by speaker ✅" to the note.  
 
 For now the editing is done by @elgirafo and @THCatarino, if you want to get involved please reach out.
 
+Check the [Foam Editor Configurations]() if you want to have all the [Foam](https://foambubble.github.io/) features enabled in VScode.
 ## About Devcon
 
 Devcon is the annual Ethereum developer conference. It is a place for developers to come together to learn, share, and collaborate. It is also a place for the Ethereum community to
