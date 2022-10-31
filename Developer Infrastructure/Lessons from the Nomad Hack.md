@@ -25,7 +25,7 @@ It supports arbitrary messages between domains.
 ## How bridges work?
 Sending chain
 Ethereum > Evmos
-Weth <> madWeth
+Weth madWeth
 
 # How did the incident happen?
 
