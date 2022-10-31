@@ -16,7 +16,6 @@ This talks paints a big picture for ETH the asset and its macro cashflows. We di
 * *staking* (ETH for economic security)
 * *defi collateral* (ETH for economic bandwidth)
 
-
 # No Ethereum without ETH
 The 1 Devcon talk about ETH as the asset. 
 Without Ether as the asset, there is no Ethereum.
