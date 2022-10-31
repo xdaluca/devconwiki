@@ -1,8 +1,9 @@
 # Post-Merge Wallet
 
-Speaker(s): Chang-Wu Chen  
-Date: Day 4 - Oct 14, 2022  
-Skill level: Intermediate  
-Track: Security  
-Keywords: Wallet;,Security;,UX  
+Status: Draft 📝  
+Speaker(s): Chang-Wu Chen    
+Date: Day 4 - Oct 14, 2022    
+Skill level: Intermediate    
+Track: Security    
+Keywords: Wallet;,Security;,UX    
 

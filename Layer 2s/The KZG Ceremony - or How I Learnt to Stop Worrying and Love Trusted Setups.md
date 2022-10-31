@@ -1,5 +1,6 @@
 # The KZG Ceremony - or How I Learnt to Stop Worrying and Love Trusted Setups
 
+Status: Draft 📝  
 Speaker(s): Carl Beekhuizen  
 Date: Day 3 - Oct 13, 2022  
 Skill level: Intermediate  

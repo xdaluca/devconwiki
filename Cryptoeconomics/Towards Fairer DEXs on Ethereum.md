@@ -1,11 +1,12 @@
 # Towards Fairer DEXs on Ethereum
 One price per token per block.
 
-Speaker(s): Felix Leupold
+Status: Draft 📝    
+Speaker(s): [Felix Leupold](https://app.devcon.org/speakers/CGP99L)  
 Date: Day 4 - Oct 14, 2022  
 Track: Cryptoeconomics  
 Keywords: Mechanism Design,MEV,Batch Auctions  
-Video link: https://www.youtube.com/watch?v=msUvYJSCRjk&ab_channel=EthereumFoundation
+Video link: https://archive.devcon.org/archive/watch/6/towards-fairer-dexs-on-ethereum/?tab=YouTube
 Slides link:
 
 Felix Leupold from CoW Swap

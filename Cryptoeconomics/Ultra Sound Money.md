@@ -1,6 +1,7 @@
 # Ultra Sound Money
 
-Speaker(s): Justin Drake  
+Status: Edited ✔️
+Speaker(s): [Justin Drake](https://app.devcon.org/speakers/3SWDYT)  
 Date: Day 2 - Oct 12, 2022  
 Skill level: Beginner  
 Track: Cryptoeconomics  
@@ -134,9 +135,9 @@ If we take all the data since [EIP1559](https://eips.ethereum.org/EIPS/eip-1559)
 During the first 7-years of Ethereum, the supply grew very fast. The peak is around the merge after which the supply starts decreasing and finding a new equilibrium.
 ### Ultra sound money MEME
 These projections around supply is what birthed the sound vs ultrasound money meme.
-[Ultrasound money meme twitter post](https://twitter.com/drakefjustin/status/1304064879662227456?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1304064879662227456%7Ctwgr%5E287652b4960941aac48d5d922a094ce2d5f4dad1%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fnews.bitcoin.com%2Fthe-future-of-ethereum-in-a-meme-ultrasound-money%2F)  
 
-![ultrasound money meme](../assets/ultrasoundmoneymeme.jpeg)
+![ultrasound money meme](../assets/ultrasoundmoneymeme.jpeg)  
+[Ultrasound money meme twitter post](https://twitter.com/drakefjustin/status/1304064879662227456?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1304064879662227456%7Ctwgr%5E287652b4960941aac48d5d922a094ce2d5f4dad1%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fnews.bitcoin.com%2Fthe-future-of-ethereum-in-a-meme-ultrasound-money%2F)  
 ### Bat signal 
 This meme evolved into a community of people wearing the 🦇🔊 signal on their twitter name. Now there are 5000+ people wearing the signal on Twitter. Visit the website
 [Ultrasound.money](https://ultrasound.money) to see all the ultrasound stats and to join the community. 
@@ -240,3 +241,5 @@ These 100M ETH will be:
 With 33M ETH staked this will lead to 1M ETH/year of issuance, so, the burn should match that at 1M ETH/year. The income from blockspace sales should be the billion dollars every day, even with tiny tx fees.
 
 In the success scenario, there should be $10T of dollars of bandwidth in DeFi and $10T in decentralized stablecoins. If we reach this, then Ethereum will have succeeded in becoming the settlement layer for the internet of value.
+
+# Wiki References
