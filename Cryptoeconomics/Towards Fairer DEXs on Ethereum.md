@@ -1,7 +1,7 @@
 # Towards Fairer DEXs on Ethereum
-One price per token per block.
+_One price per token per block._
 
-Status: Draft 📝    
+Status: Draft 📝  
 Speaker(s): [Felix Leupold](https://app.devcon.org/speakers/CGP99L)  
 Date: Day 4 - Oct 14, 2022  
 Track: Cryptoeconomics  

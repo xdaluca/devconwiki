@@ -1,6 +1,6 @@
 # Ultra Sound Money
 
-Status: Edited ✔️
+Status: Edited ✔️  
 Speaker(s): [Justin Drake](https://app.devcon.org/speakers/3SWDYT)  
 Date: Day 2 - Oct 12, 2022  
 Skill level: Beginner  
