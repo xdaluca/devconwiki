@@ -18,7 +18,14 @@ Our goal is to maintain a high level of neutrality and accuracy in the notes. We
 
 For now the editing is done by @elgirafo and @THCatarino, if you want to get involved please reach out.
 
-Check the [Foam Editor Configurations]() if you want to have all the [Foam](https://foambubble.github.io/) features enabled in VScode.
+Check the [Foam Editor Configurations]() if you want to have all the [Foam](https://foambubble.github.io/) features enabled in VScode.  
+
+## Statuses
+Notes can have the following statuses:
+- Draft 📝 - The note is still a draft or fleeting note.
+- Edited ✔️ - The note has been edited and contains the full contents of the talk.
+- Verified by speaker ✅ - The note has been verified by the speaker.
+
 ## About Devcon
 
 Devcon is the annual Ethereum developer conference. It is a place for developers to come together to learn, share, and collaborate. It is also a place for the Ethereum community to
