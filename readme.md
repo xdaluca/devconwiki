@@ -6,7 +6,8 @@ This year there were 444 speakers, so, if you are planning to catch-up on all th
 
 There were many great side-events during Devcon, so feel free to add notes from those as well.
 
-> Please keep in mind that we are still working on most of the notes to improve them.
+> Please keep in mind that we are still working on most of the notes to improve them.  
+
 ## How to contribute
 
 If you have notes from a talk or workshop, please add them to the wiki. You can do this in two ways:
