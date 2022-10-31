@@ -11,8 +11,8 @@ There were many great side-events during Devcon, so feel free to add notes from 
 
 If you have notes from a talk or workshop, please add them to the wiki. You can do this in two ways:
 
-1. If you are familiar with GitHub, fork this repository and create a pull request to add your notes or edits to the wiki. 
-2. If you are not certain how to do this, please create an issue in this repository, and we will add your notes to the wiki.
+1. If you are familiar with GitHub, fork [this repository](https://github.com/elgirafo/devconwiki) and create a pull request to add your notes or make changes to the wiki. 
+2. If you are not certain how to do this, please [create an issue](https://github.com/elgirafo/devconwiki/issues/new) in this repository, and we will add your notes to the wiki.
 
 Our goal is to maintain a high level of neutrality and accuracy in the notes. We welcome speakers to review and contribute to the notes as well as linking to their slides. Our aim is to have notes verified by speakers, for this we ask speakers to review the note, raise issues if they find any errors. After the go-ahead of the speaker we will add the "verified by speaker ✅" to the note.  
 
