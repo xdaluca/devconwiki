@@ -49,24 +49,6 @@ module.exports = {
           if (!defaultPluginMdx.options.rehypePlugins) defaultPluginMdx.options.rehypePlugins = []
           defaultPluginMdx.options.rehypePlugins.push(require('rehype-katex'))
           return defaultPluginMdx
-          
-          // open external links in new tab (internal links same)
-          const ExternalLink = props => {
-            if (props.href.includes('yourwebsite.com') || props.href[0] === '/') {
-              return <a href={props.href}>{props.children}</a>
-            }
-            return (
-              <a href={props.href} target="_blank" rel="noopener noreferrer">
-                {props.children}
-              </a>
-            )
-          }
-          const components = {
-            a: ExternalLink,
-          }
-          const ExampleLayout = ({children}) => (
-              <MDXProvider components={components}>{children}</MDXProvider>
-          ) 
         },
       },
     },
