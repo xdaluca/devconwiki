@@ -49,7 +49,8 @@ module.exports = {
           if (!defaultPluginMdx.options.rehypePlugins) defaultPluginMdx.options.rehypePlugins = []
           defaultPluginMdx.options.rehypePlugins.push(require('rehype-katex'))
           return defaultPluginMdx
-
+          
+          // open external links in new tab (internal links same)
           const ExternalLink = props => {
             if (props.href.includes('yourwebsite.com') || props.href[0] === '/') {
               return <a href={props.href}>{props.children}</a>
