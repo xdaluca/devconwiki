@@ -1,6 +1,6 @@
 # The Future of Wallets: MPC vs. Smart Contract Wallets
 
-* Status: Draft 📝
+* Status: Edited ✔️
 * Speaker: Ivo Georgiev
 * Date: Day 4 - Oct 14, 2022
 * Skill level: Intermediate
