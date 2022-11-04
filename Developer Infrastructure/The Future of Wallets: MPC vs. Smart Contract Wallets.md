@@ -18,16 +18,16 @@ Let's explore the relative strenghts and weaknesses of each, as well as the prot
 **Question**: Can be the future for the next 1 Billion crypto users?<br> 
 **Myth**: Most people are not ready for self-custody<br>
 **Reality**: Most self-custodial wallets are not ready for users<br>
-<br>
+   
 
-Curent self-custody issues:<br>
+Curent self-custody issues:   
 * seed pahrases, back-up techniques
 * compromised keys/software wallets vulnerable to malware & supply chain attacks
-* social engineering attacks (eg BAYC)<br>
-<br>
+* social engineering attacks (eg BAYC)   
+   
 
 How do we prevent this? —> multi-factor authentication, aka **multisigs**<br>
-<br>
+   
 
 Why are multisigs (kind of) a silver bullet?<br>
 * seedless onboarding: you’re onboarded with 2 devices/separate time-locked recovery key
