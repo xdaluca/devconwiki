@@ -15,9 +15,9 @@ Let's explore the relative strenghts and weaknesses of each, as well as the prot
 
 # Notes
 
-**Question**: Can be the future for the next 1 Billion crypto users?<br> 
-**Myth**: Most people are not ready for self-custody<br>
-**Reality**: Most self-custodial wallets are not ready for users<br>
+**Question**: Can be the future for the next 1 Billion crypto users?  
+**Myth**: Most people are not ready for self-custody  
+**Reality**: Most self-custodial wallets are not ready for users  
    
 
 Curent self-custody issues:   
@@ -26,16 +26,17 @@ Curent self-custody issues:
 * social engineering attacks (eg BAYC)   
    
 
-How do we prevent this? —> multi-factor authentication, aka **multisigs**<br>
+How do we prevent this? —> multi-factor authentication, aka **multisigs**   
    
 
-Why are multisigs (kind of) a silver bullet?<br>
+Why are multisigs (kind of) a silver bullet?   
 * seedless onboarding: you’re onboarded with 2 devices/separate time-locked recovery key
 * account recovery (eg social recovery)
 * multi-factor authentication
-* resistance to hacks or compromised keys<br>
-<br>
-<br>
+* resistance to hacks or compromised keys   
+    
+    
+    
 
 **MPC vs. smart contract wallets/account abstractions — which tech is the future?**
 * MPC = multi-party computation -> In MPC wallets the signatures must be produced by 2 or more separate parties => this is _a_ multisig<br>
