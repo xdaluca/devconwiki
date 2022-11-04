@@ -37,7 +37,7 @@ Why are multisigs (kind of) a silver bullet?
     
 
 **MPC vs. smart contract wallets/account abstractions — which tech is the future?**
-* MPC = multi-party computation -> In MPC wallets the signatures must be produced by 2 or more separate parties => this is _a_ multisig<br>  
+* MPC = multi-party computation -> In MPC wallets the signatures must be produced by 2 or more separate parties => this is _a_ multisig   
 * SCW = smart contract wallet -> In smart wallets each user account is a *smart contract*, allowing for any custom authentication or execution logic => this wallet _inlcudes_ multisig features.     
     
     
