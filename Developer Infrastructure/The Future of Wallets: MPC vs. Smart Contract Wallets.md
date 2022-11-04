@@ -8,10 +8,10 @@
 * Keywords: mpc,multi-party computation,ux,smart wallets
 * Video link: https://youtu.be/85w0TvZMivA
 * Slides link: to be provided by speaker
-* Description: <br>
+* Description:   
 _There's undoubtedly more we can do to improve Ethereum wallet UX, and there's two technologies competing for this: MPC (multi-party computation) and smart contract wallets.
 Let's explore the relative strenghts and weaknesses of each, as well as the protocol upgrades that will help (eg account abstractions, EIP3074 and EIP4337) and how those affect the comparsion._
-<br>
+   
 
 # Notes
 
