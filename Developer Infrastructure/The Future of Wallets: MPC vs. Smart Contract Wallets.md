@@ -38,65 +38,65 @@ Why are multisigs (kind of) a silver bullet?
 
 **MPC vs. smart contract wallets/account abstractions — which tech is the future?**
 * MPC = multi-party computation -> In MPC wallets the signatures must be produced by 2 or more separate parties => this is _a_ multisig<br>  
-* SCW = smart contract wallet -> In smart wallets each user account is a *smart contract*, allowing for any custom authentication or execution logic => this wallet _inlcudes_ multisig features. <br/>  
-<br/>  
-<br/>  
+* SCW = smart contract wallet -> In smart wallets each user account is a *smart contract*, allowing for any custom authentication or execution logic => this wallet _inlcudes_ multisig features.     
+    
+    
 
-**Smart contract wallet mythbusting**<br/>    
-<br/>  
-Myth: smart wallets can’t sign messages<br/>  
-Reality: smart wallets can sign messages via EIP 1271<br/>  
+**Smart contract wallet mythbusting**      
+    
+Myth: smart wallets can’t sign messages    
+Reality: smart wallets can sign messages via EIP 1271    
 
-Myth: smart wallets produce a different address on each chain, and require setup<br/>  
-Reality: thanks to CREATE2, smart wallets can be counterfactually deployed on any EVM chain<br/>  
+Myth: smart wallets produce a different address on each chain, and require setup    
+Reality: thanks to CREATE2, smart wallets can be counterfactually deployed on any EVM chain    
 
-Myth: smart wallets have huge gas overhead<br/>  
-Reality: thanks to minimal proxies, the permanent gas overhead is ~3k gas (delegatecall)<br/>  
-<br/>  
-<br/>  
+Myth: smart wallets have huge gas overhead    
+Reality: thanks to minimal proxies, the permanent gas overhead is ~3k gas (delegatecall)    
+    
+    
 
-**The case for smart wallets**<br/>  
+**The case for smart wallets**    
 * More than multisigs: timelocks/spending limits/recovery mechanisms(eg Argent social recovery)/ safe seedless onboarding and recovery (eg Ambire email/pass authentication)
 * Mutable: change authentication scheme, rotate keys, add/remove signers (without changing address!)
 * Gas abstractions: paying transaction fees in ERC20 tokens
 * Batching: grouping multiple operations in one transaction => safely hiding ERC20 approvals (+ saves 21k gas base!)
 * Automations: Instadapp, DeFi Saver - eg auto-harvesting rewards
 * Flash loans: Furucombo
-* Alternative cryptography: NIST curve (Ed25519), paving the way to using WebAuthn, iOS biometrics<br/>  
-<br/>  
-<br/>  
+* Alternative cryptography: NIST curve (Ed25519), paving the way to using WebAuthn, iOS biometrics    
+    
+    
 
-Drawbacks & adoption challenges for smarr contract wallets<br/>  
+Drawbacks & adoption challenges for smarr contract wallets    
 * Gas overhead: 30-40k gas on first transaction, 2k gas afterwards
 * EIP 1271 largely unadopted, especially on front-ends
-* Developer education!: (some) devs intentionally block smart contracts, not realizing contracts can be wallets /“bot protection”<br/>  
-<br/>  
-<br/>  
+* Developer education!: (some) devs intentionally block smart contracts, not realizing contracts can be wallets /“bot protection”    
+    
+    
 
-**MPC wallets distinct advantages**<br/>  
+**MPC wallets distinct advantages**    
 * Off-chain recovery —>  cheaper & easier, not as flexible as SCW
 * Truly cross-chain, no dependence on smart contracts —> Bitcoin support!
 * No gas overhead
-* No need for any changes in dApps (signatures just work)<br/>  
-<br/>  
-<br/>  
+* No need for any changes in dApps (signatures just work)    
+    
+    
 
-Problems with MPC wallets<br/>  
+Problems with MPC wallets    
 * Custom cryptography required -> not ideal security-wise
 * Immutable authentication rules—> no timelocks, limited to multisig (TSS)
-* No current Trezor/Ledger compatibility<br/>  
-<br/>  
-<br/>  
+* No current Trezor/Ledger compatibility    
+    
+    
 
 **Conclusion**
 * Smart contract wallets/account abstractions are more flexible and future proof
-* MPC can be a fantastic transitory solution for specific use cases<br/>  
-<br/>  
-<br/>  
+* MPC can be a fantastic transitory solution for specific use cases    
+    
+    
 
-Contact:<br/>  
-Ivo Georgiev, CEO Ambire Wallet<br/>  
-ivo@ambire.com<br/>  
+Contact:    
+Ivo Georgiev, CEO Ambire Wallet    
+ivo@ambire.com    
 Twitter:@Ivshti
 
 
