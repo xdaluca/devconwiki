@@ -35,3 +35,18 @@ come together to celebrate the progress of the ecosystem.
 Devcon is organized by the Ethereum Foundation and the Ethereum community. For more information about Devcon, please visit the [Devcon website](https://devcon.org/).
 
 Devcon 6 was held in Bogotá, Colombia on Oct 11 - 14, 2022.
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END --
