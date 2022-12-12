@@ -17,7 +17,7 @@ If you have notes from a talk or workshop, please add them to the wiki. You can 
 
 Our goal is to maintain a high level of neutrality and accuracy in the notes. We welcome speakers to review and contribute to the notes as well as linking to their slides. Our aim is to have notes verified by speakers, for this we ask speakers to review the note, raise issues if they find any errors. After the go-ahead of the speaker we will add the "verified by speaker ✅" to the note.  
 
-For now the editing is done by [@xdaluca](https://twitter.com/daluca_) and [@THCatarino](https://twitter.com/CatarinoThi), if you want to get involved please reach out.
+For now the editing is done by [@daluca](https://twitter.com/daluca_) and [@THCatarino](https://twitter.com/CatarinoThi), if you want to get involved please reach out.
 
 Check the [Foam Editor Configurations]() if you want to have all the [Foam](https://foambubble.github.io/) features enabled in VScode.  
 
